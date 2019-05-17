@@ -1,8 +1,7 @@
 # Awesome list of C++ GameDev project
 
-This list is still a work in progress.    
-I have to filter it now, cause a lot of libraries here does the same things.  
-I want to store here only good quality libraries. If you want to add projects here, do not push a request, open an issue and I'll check.  
+If you want to add projects here, do a push request or an issue.
+
 C++, C, C#, Lua, and some exceptions for other languages. 
 
 - [C++](#C++)
@@ -225,7 +224,7 @@ C++, C, C#, Lua, and some exceptions for other languages.
   - [SFBL](https://github.com/Made4Dev/SFBL) : SFML Box2D Light
   - [ObEngine](https://github.com/Sygmei/ObEngine) : 2D Game Engine with Lua Scripting made on top of SFML !
   - [nero-game-engine](https://github.com/sk-landry/nero-game-engine) : Advanced SFML Game Engine, Designed to be Simple and Intuitive 
-
+  - [Vigilante-Game-Framework](https://github.com/gamepopper/Vigilante-Game-Framework) : 2D/3D C++ game framework written for use with SFML.
 
 ## Maths
 - [vectorial](https://github.com/scoopr/vectorial) : Vector math library with NEON/SSE support
@@ -347,6 +346,7 @@ GPU cloth with OpenGL Compute Shaders
 - [steam-audio](https://github.com/ValveSoftware/steam-audio) : Steam Audio
 - [soloud](https://github.com/jarikomppa/soloud) : Free, easy, portable audio engine for games
 - [kfr](https://github.com/kfrlib/kfr) : Fast, modern C++ DSP framework, FFT, Audio Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, ARM NEON)
+- [ass](https://github.com/fungos/ass) : ASS: Audio Stupidly Simple 
 - [FAudio](https://github.com/FNA-XNA/FAudio) : FAudio - Accuracy-focused XAudio reimplementation for open platforms 
 - Audio Synthesis and Speech recognition
   - [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) : PocketSphinx is a lightweight speech recognition engine
@@ -362,6 +362,7 @@ GPU cloth with OpenGL Compute Shaders
   - [liquidfun](https://github.com/google/liquidfun) : 2D physics engine for games
   - [phyxed-2d](https://github.com/Srekel/phyxed-2d) : A 2d physics engine with fixed-point support. 
 - 3D Physics
+  - [NewtonDynamics](https://github.com/MADEAPPS/newton-dynamics) : Newton Dynamics is an integrated solution for real time simulation of physics environments.
   - [nudge](https://github.com/rasmusbarr/nudge) : A small data-oriented and SIMD-optimized 3D rigid body physics library.
   - [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) : A PIC/FLIP fluid simulation based on the methods found in "Fluid Simulation for Computer Graphics"
   - [RealtimeWater](https://github.com/hpatjens/RealtimeWater) : The water simulation is based on the method that Fischer proposes for 2D heightfields
@@ -409,7 +410,6 @@ GPU cloth with OpenGL Compute Shaders
 - Path
   - [MicroPather](https://github.com/leethomason/MicroPather) : MicroPather is a path finder and A* solver 
   - [lib_2d](https://github.com/I3ck/lib_2d) : A c++ library for paths defined by points within the 2d space
-  - [ass](https://github.com/fungos/ass) : ASS: Audio Stupidly Simple 
 
 
 ## Scripting
@@ -427,6 +427,7 @@ GPU cloth with OpenGL Compute Shaders
 - [protobuf](https://github.com/google/protobuf) : Protocol Buffers - Google's data interchange format
 - [breadboard](https://github.com/google/breadboard) : C++ graph based event system
 - [CppSharp](https://github.com/mono/CppSharp) : Tools and libraries to glue C/C++ APIs to high-level languages 
+- [pybind11](https://github.com/pybind/pybind11) : Seamless operability between C++11 and Python
 
 
 ## GameProgramming
