@@ -256,7 +256,7 @@ Low-Discrepancy Blue Noise Sampling
   - [Thor](https://github.com/Bromeon/Thor) : SFML Extension with various game programming features, like particles, animations, vector operations
   - [SFML-Book](https://github.com/Krozark/SFML-book) : SFML Blueprint book, source code
   - [LTBL2](https://github.com/222464/LTBL2) : A 2D dynamic lighting system with accurate soft shadows.
-  - [light_ungod](https://github.com/Ung0d/light_ungod) : A reimplementation of the LTBL2-framwork.
+  - [light_ungod](https://github.com/Ung0d/light_ungod) : A reimplementation of the LTBL2-framework.
   - [RichText](https://github.com/skyrpex/RichText) : Rich text class for SFML2
   - [QSFML](https://github.com/KoczurekK/QSFML) : Library that integrates SFML 2.x.x and Qt 5.x.x, includes event handling etc.
   - [SFGUI](https://github.com/TankOs/SFGUI) : Simple and Fast Graphical User Interface
