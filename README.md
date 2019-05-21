@@ -218,6 +218,7 @@ C++, C, C#, Lua, and some exceptions for other languages.
 - [shiva](https://github.com/Milerius/shiva) : Modern Cross-Platform C++ Engine with modularity (MIT) 
 - [include-engine](https://github.com/sgorsten/include-engine) : #include engine 
 - [GameEngine](https://github.com/qnope/GameEngine) : Little Game Engine that aims to be Physically Based for the lighting part 
+- [Limon](https://github.com/enginmanap/limonengine) : 3D game engine with builtin editor, focusing ease of use and ease of study.
 - SFML based engines
   - [Swift2](https://github.com/dabbertorres/Swift2) : A SFML-backed game framework.
   - [SchiffbruchEngine](https://github.com/Lirrec/SchiffbruchEngine) : SchiffbruchEngine
