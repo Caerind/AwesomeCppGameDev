@@ -341,6 +341,7 @@ GPU cloth with OpenGL Compute Shaders
 - [halfedge](https://github.com/yig/halfedge) : A C++ half-edge data structure for a triangle mesh with no external dependencies whatsoever. Public domain. 
 - [GettingStartedWithRTXRayTracing](https://github.com/NVIDIAGameWorks/GettingStartedWithRTXRayTracing) : Getting Started with RTX Ray Tracing 
 - [Fox2](https://github.com/FRex/Fox2) : FoxRaycaster, optimized, fixed and with a CUDA option 
+- [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) : A modern cross-platform low-level graphics library and rendering framework
 
 
 ## Audio
