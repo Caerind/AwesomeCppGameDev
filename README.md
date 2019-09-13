@@ -440,6 +440,7 @@ GPU cloth with OpenGL Compute Shaders
   - [EntityPlus](https://github.com/Yelnats321/EntityPlus) : A C++14 Entity Component System
   - [ecst](https://github.com/SuperV1234/ecst) : Experimental C++14 multithreaded compile-time entity-component-system library
   - [entityx](https://github.com/alecthomas/entityx) : EntityX - A fast, type-safe C++ Entity-Component system
+  - [dynamix](https://github.com/iboB/dynamix) : DynaMix - DynaMix (Dynamic Mixins) is a new take on polymorphism. It lets the user compose and modify polymorphic objects at run time in C++.
 - Inputs
   - [gainput](https://github.com/jkuhlmann/gainput) : Awesome C++ input library for games
   - [libgamepad](https://github.com/mtwilliams/libgamepad) : Cross-platform library for gamepad input. MIT licensed.
