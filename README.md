@@ -127,6 +127,7 @@ C++, C, C#, Lua, and some exceptions for other languages.
   - [meow_hash](https://github.com/cmuratori/meow_hash) : Official version of the Meow hash, an extremely fast non-cryptographic hash 
 - Testing
   - [Catch](https://github.com/philsquared/Catch) : A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++98, C++03, C++11, C++14 and later
+  - [doctest](https://github.com/onqtam/doctest) : The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
   - [benchmark](https://github.com/google/benchmark) : A microbenchmark support library
   - [mettle](https://github.com/jimporter/mettle) : A C++14 unit test framework
   - [portable-file-dialogs](https://github.com/samhocevar/portable-file-dialogs) : Portable dialogs library 
