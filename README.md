@@ -13,7 +13,7 @@ If you want to add projects here, do a push request or open an issue!
 - [Engines](#Engines)
 - [Maths](#Maths)
 - [Graphics](#Graphics)
-- [Audio & Video](#Audio & Video)
+- [Multimedia](#Multimedia)
 - [Physics](#Physics)
 - [Networking](#Networking)
 - [AI](#AI)
@@ -23,124 +23,57 @@ If you want to add projects here, do a push request or open an issue!
 - [Tools](#Tools)
 - [Awesome](#Awesome)
 - [GameProgrammerPath](#GameProgrammerPath)
+- [GameDesign](#GameDesign)
 - [Website](#Website)
 
 ## C++
 - [rangeless](https://github.com/ast-al/rangeless) : c++ LINQ -like library of higher-order functions for data manipulation
-- [dry-comparisons](https://github.com/rollbear/dry-comparisons) : C++17 Utility classes for comparing multiple values in one simple expression
-- [modern-cpp-best-practice](https://github.com/utilForever/modern-cpp-best-practice) : Collaborative Collection of Modern C++ Best Practices
 - [variant](https://github.com/mpark/variant) : C++17 `std::variant` for C++11/14/17
-- [loki-lib](https://github.com/snaewe/loki-lib) : Loki is a C++ library of designs, containing flexible implementations of common design patterns and idioms.
-- [loki](https://github.com/dutor/loki) : A C++ Template library, developed by Andrei Alexandrescu, the author of the book Modern C++ Design.
 - [tweeny](https://github.com/mobius3/tweeny) : A modern C++ tweening library
 - [arrow](https://github.com/apache/arrow) : Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for effic…
-- [EAAssert](https://github.com/electronicarts/EAAssert) : EAAssert is a simple and lightweight assert technology.
 - [EAMain](https://github.com/electronicarts/EAMain) : EAMain provides a multi-platform entry point used for platforms that don't support console output, return codes and command-line arguments.
-- [SG14](https://github.com/WG21-SG14/SG14) : A library for Study Group 14 of Working Group 21 (C++)
 - [cxx14-graph](https://github.com/asutton/cxx14-graph) : A C++ 14 implementation of graph data structures
-- [lingo](https://github.com/asutton/lingo) : A library of tools for compiler construction.
-- [clang](https://github.com/asutton/clang) : 
-- [clang-reflect](https://github.com/asutton/clang-reflect) : A clean implementation of reflection and related proposals.
-- [GSL](https://github.com/microsoft/GSL) : Guidelines Support Library
-- [ClanLib](https://github.com/sphair/ClanLib) : ClanLib is a cross platform C++ toolkit library.
 - [lex](https://github.com/foonathan/lex) : C++14 fast and efficient tokenizer
-- [cftf](https://github.com/neobrain/cftf) : Clang from the Future: A C++17 to C++11 source-to-source compiler
-- [clang-power-tools](https://github.com/Caphyon/clang-power-tools) : Bringing clang-tidy magic to Visual Studio C++ developers.
-- [car](https://github.com/nicholaschiasson/car) : Compile and Run! Execute source files directly without worrying at all about compiling.
 - [lager](https://github.com/arximboldi/lager) : C++ library for value-oriented design using the unidirectional data-flow architecture (Redux for C++)
-- [vrm_core](https://github.com/SuperV1234/vrm_core) : Lightweight C++14 utility library. (Modernized, stripped and cleaned-up version of SSVUtils.)
-- [protobuf-c](https://github.com/protobuf-c/protobuf-c) : Protocol Buffers implementation in C
-- [clang-format-all](https://github.com/eklitzke/clang-format-all) : Run clang-format -i on all of the files in your C or C++ project
 - [cpp-std-fwd](https://github.com/Philip-Trettner/cpp-std-fwd) : forward declarations for C++ std headers
-- [not-enough-standards](https://github.com/Alairion/not-enough-standards) : A modern header-only C++ library that provides platform-independent utilities.
-- [PolyHook_2_0](https://github.com/stevemk14ebr/PolyHook_2_0) : C++17, x86/x64 Hooking Libary v2.0
-- [Ratchet](https://github.com/themeldingwars/Ratchet) : A gameclient hooking framework to aid debuging
-- [draft](https://github.com/shafik/draft) : C++ standards drafts
-- [CppAst](https://github.com/xoofx/CppAst) : CppAst is a .NET library providing a C/C++ parser for header files powered by Clang/libclang with access to the full AST, comments and macros
-- [oc](https://github.com/garettbass/oc) : Macro magic for declaring/calling Objective-C APIs from C11 or C++. Preloads selectors, chooses the correct objc_msgSend to call per method/platform.
 - [hedley](https://github.com/nemequ/hedley) : A C/C++ header to help move #ifdefs out of your code
 - [scnlib](https://github.com/eliaskosunen/scnlib) : scanf for modern C++
-- [Aurora](https://github.com/Bromeon/Aurora) : Header-only library with unconventional C++ features, like deep-copy smart pointers, dynamic dispatch, type-erased ranges
-- [gsl-lite](https://github.com/martinmoene/gsl-lite) : gsl lite - A single-file header-only version of ISO C++ Guidelines Support Library (GSL) for C++98, C++11 and later
 - [pipet](https://github.com/kenavolic/pipet) : c++ library for building lightweight processing pipeline at compile-time
-- [PolyHook](https://github.com/stevemk14ebr/PolyHook) : x86/x64 C++ Hooking Library
-- [flatbuffers](https://github.com/google/flatbuffers) : FlatBuffers: Memory Efficient Serialization Library
-- [CppLowess](https://github.com/hroest/CppLowess) : A pure C++ implementation of the lowess algorithm using templates
-- [jet-live](https://github.com/ddovod/jet-live) : c++ hot code reload for linux and macos
-- [blink](https://github.com/crosire/blink) : A tool which allows you to edit source code of any MSVC C++ project live at runtime
 - [scope_guard](https://github.com/Neargye/scope_guard) : Scope Guard & Defer C++
-- [cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) : C++ Documentation
-- [autotidy](https://github.com/sasq64/autotidy) : Speedier handling of clang-tidy checking
-- [HWCPipe](https://github.com/ARM-software/HWCPipe) : Hardware counters interface
 - [pdbex](https://github.com/wbenny/pdbex) : pdbex is a utility for reconstructing structures and unions from the PDB into compilable C headers
-- [nanopb](https://github.com/nanopb/nanopb) : Protocol Buffers with small code size
-- [cppcheck](https://github.com/danmar/cppcheck) : static analysis of C/C++ code
-- [debug_assert](https://github.com/foonathan/debug_assert) : Simple, flexible and modular assertion macro.
-- [CToy](https://github.com/anael-seghezzi/CToy) : Interactive C coding environment
 - [optional-lite](https://github.com/martinmoene/optional-lite) : optional lite - A C++17-like optional, a nullable object for C++98, C++11 and later in a single-file header-only library
 - [libinsanity](https://github.com/wm4/libinsanity) : libc functions (and related) without bugs mandated by standard C or common OSes
-- [C-Hotloading](https://github.com/RandyGaul/C-Hotloading) : Example of MSVC makefile project for hotloading C with intellisense/debugger compatability
-- [generic-switch](https://github.com/dabbertorres/generic-switch) : Generic Switch function for C++17
-- [nibrans](https://github.com/BareRose/nibrans) : Simple, single-file, nibble-based, adaptive rANS library with SSE2-accelerated modeling
-- [movfuscator](https://github.com/Battelle/movfuscator) : The single instruction C compiler
-- [cpp-forensics](https://github.com/IMQS/cpp-forensics) : C++ crash dump server
 - [kangaru](https://github.com/gracicot/kangaru) : A dependency injection container for C++11, C++14 and later
-- [cpack](https://github.com/OnyxFlames/cpack) : File-to-sourcecode packer.
-- [cpp20_in_TTs](https://github.com/tvaneerd/cpp20_in_TTs) : C++20 features described in Before/After tables ("Tony Tables")
-- [uuid_h](https://github.com/wc-duck/uuid_h) : Single file, STB-style, "lib" to generate uuid:s.
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) : The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
-- [CompileTimer](https://github.com/janwilmans/CompileTimer) : Set of tests to benchmark the compile time of c++ constructs
-- [cppinsights](https://github.com/andreasfertig/cppinsights) : C++ Insights - See your source code with the eyes of a compiler
-- [argot](https://github.com/mattcalabrese/argot) : A C++ library that simplifies working with tuples, variants, and more through argument list generation and the ability to convert from run-time values to compile-time values.
-- [CPY](https://github.com/vrsperanza/CPY) : CPY - Code C/C++ with no redundancy
-- [fcpp](https://github.com/bagder/fcpp) : Frexx C preprocessor
 - [span-lite](https://github.com/martinmoene/span-lite) : span lite - A C++20-like span for C++98, C++11 and later in a single-file header-only library
-- [RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) : Change C++ code at runtime
-- [cpp-utilities](https://github.com/eteran/cpp-utilities) : Miscellaneous C++11 utility classes and functions
-- [backward-cpp](https://github.com/bombela/backward-cpp) : A beautiful stack trace pretty printer for C++
 - [replxx](https://github.com/AmokHuginnsson/replxx) : A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and is BSD licensed.
-- [live_reload_test](https://github.com/nlguillemot/live_reload_test) : demonstration of live reloading
-- [cr](https://github.com/fungos/cr) : cr.h: A Simple C Hot Reload Header-only Library
 - [stateful_pointer](https://github.com/HDembinski/stateful_pointer) : Use unused bits in your pointer
 - [type_erasure_and_dispatch](https://github.com/abwilson/type_erasure_and_dispatch) : Code related to ACCU meet up talk.
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) : A cheatsheet of modern C++ language and library features.
 - [msgpack11](https://github.com/ar90n/msgpack11) : A tiny MessagePack library for C++11 (msgpack.org[C++11])
 - [trackable_ptr](https://github.com/tower120/trackable_ptr) : Smart pointer for any movable objects. When trackable object moved/destroyed, trackers updated with new object's pointer.
-- [in_constexpr](https://github.com/SaadAhmad/in_constexpr) : An approach for runtime detection inside a constexpr function
-- [cppast](https://github.com/foonathan/cppast) : Library to parse and work with the C++ AST
-- [breadboard](https://github.com/google/breadboard) : C++ graph based event system
 - [reactive](https://github.com/tower120/reactive) : Simple, non intrusive reactive programming library for C++. (Events + Observable Properties + Reactive Properties)
 - [liberasure](https://github.com/atomgalaxy/liberasure) : A no-dependencies C++ extensible type erasure library
 - [any](https://github.com/pahowes/any) : A simple variant type for C++
 - [FastDynamicCast](https://github.com/tobspr/FastDynamicCast) : Fast dynamic cast in C++ for MSVC, outperforming the regular dynamic cast by up to 25 times
-- [immutable-cpp](https://github.com/rsms/immutable-cpp) : Persistent immutable data structures for C++
-- [stylelint](https://github.com/stylelint/stylelint) : A mighty, modern style linter
-- [protobuf](https://github.com/protocolbuffers/protobuf) : Protocol Buffers - Google's data interchange format
 - [0xABAD1DEA](https://github.com/graphitemaster/0xABAD1DEA) : Static global objects with constructors and destructors made useful in C++
 - [PubBus](https://github.com/eXpl0it3r/PubBus) : A simple implementation of a MessageBus.
-- [yauid](https://github.com/lexborisov/yauid) : A decentralized unique ID generator (int64)
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) : Modern C++ Tutorial: C++11/14/17/20 On the Fly
-- [modern-cpp-tutorial](https://github.com/utilForever/modern-cpp-tutorial) : A curated list of Modern C++ articles, examples, tutorials, frameworks, libraries, and shiny things.
 - [cppbestpractices](https://github.com/lefticus/cppbestpractices) : Collaborative Collection of C++ Best Practices
 - [emscripten](https://github.com/emscripten-core/emscripten) : Emscripten: An LLVM-to-Web Compiler
 - [gcpp](https://github.com/hsutter/gcpp) : Experimental deferred and unordered destruction library for C++
-- [live_edit](https://github.com/azmr/live_edit) : A collection of single-header libraries to help with reloading, debugging and profiling C(++) code.
-- [uvw](https://github.com/skypjack/uvw) : Header-only, event based, tiny and easy to use libuv wrapper in modern C++
 - [patterns](https://github.com/mpark/patterns) : Pattern Matching in C++
 - [cmcstl2](https://github.com/CaseyCarter/cmcstl2) : An implementation of C++ Extensions for Ranges
 - [invoke.hpp](https://github.com/BlackMATov/invoke.hpp) : std::invoke/std::apply analogs for C++14
 - [cppbackport](https://github.com/PollardBanknote/cppbackport) : A backport of C++11/14/17 features to earlier versions
-- [expected](https://github.com/TartanLlama/expected) : C++11/14/17 std::expected with functional-style extensions
-- [fsm-variant](https://github.com/mpusz/fsm-variant) : Finite State Machine implementation using std::variant
+- [libuv](https://github.com/libuv/libuv) : Cross-platform asynchronous I/O
+- [uvw](https://github.com/skypjack/uvw) : Header-only, event based, tiny and easy to use libuv wrapper in modern C++
 - [opt](https://github.com/mpusz/opt) : Class template designed to express optionality without having to sacrifice memory to store additional bool flag
 - [shared_ptr_2.0](https://github.com/mpusz/shared_ptr_2.0) : 
-- [libuv](https://github.com/libuv/libuv) : Cross-platform asynchronous I/O
 - Bits
   - [BigInt](https://github.com/DolaBMOon/BigInt) : BigInt in C++ using bitset
   - [huge-long-number](https://github.com/daidodo/huge-long-number) : This is an implementation of arbitrary range of integers written in C++14
   - [BigInteger](https://github.com/stevenBorisko/BigInteger) : Be limited not by the size of your register but by the bulk of your RAM.
   - [bitmask](https://github.com/oliora/bitmask) : A generic implementation of the BitmaskType C++ concept
-  - [hlslparser](https://github.com/Thekla/hlslparser) : HLSL Parser and Translator for HLSL, GLSL, and MSL.
   - [BigInteger](https://github.com/panks/BigInteger) : An Implementation of BigInteger library in C++
   - [bigint](https://github.com/kasparsklavins/bigint) : A lightweight big integer library for c++
   - [bitwise](https://github.com/pervognsen/bitwise) : Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
@@ -213,6 +146,7 @@ If you want to add projects here, do a push request or open an issue!
   - [drmemory](https://github.com/DynamoRIO/drmemory) : Memory Debugger for Windows, Linux, Mac, and Android
   - [rpmalloc](https://github.com/mjansson/rpmalloc) : Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C
   - [jemalloc](https://github.com/jemalloc/jemalloc) : 
+  - [cpp-mempool](https://github.com/hardikp/cpp-mempool) : C++ header-only mempool library
 - Strings
   - [ryu](https://github.com/ulfjack/ryu) : Converts floating point numbers to decimal strings
   - [str](https://github.com/MengRao/str) : A SIMD optimized fixed-length string class along with an adaptive hash table for fast searching
@@ -229,6 +163,8 @@ If you want to add projects here, do a push request or open an issue!
   - [utfz](https://github.com/IMQS/utfz) : Tiny C++ UTF-8 library - safe, no exceptions
   - [utf8.h](https://github.com/sheredom/utf8.h) : single header utf8 string functions for C and C++
   - [tiny-utf8](https://github.com/DuffsDevice/tiny-utf8) : Unicode (UTF-8) capable std::string
+  - [str_view](https://github.com/sawickiap/str_view) : Null-termination-aware string-view class for C++
+  - [Obfuscate](https://github.com/adamyaxley/Obfuscate) : Guaranteed compile-time string literal obfuscation header-only library for C++14
 - Parsers
   - [inih](https://github.com/benhoyt/inih) : Simple .INI file parser in C, good for embedded systems
   - [simple-ini-reader](https://github.com/seb-jones/simple-ini-reader) : Fast, Simple, Public Domain INI Reader written in C
@@ -279,6 +215,9 @@ If you want to add projects here, do a push request or open an issue!
   - [yaml-cpp](https://github.com/jbeder/yaml-cpp) : A YAML parser and emitter in C++
   - [json](https://github.com/nlohmann/json) : JSON for Modern C++
   - [pugixml](https://github.com/zeux/pugixml) : Light-weight, simple and fast XML parser for C++ with XPath support
+  - [rapidcsv](https://github.com/d99kris/rapidcsv) : C++ CSV parser library
+  - [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) : fast-cpp-csv-parser
+  - [csvstream](https://github.com/awdeorio/csvstream) : An easy-to-use CSV file parser for C++
 - FileSystem
   - [filesystem](https://github.com/gulrak/filesystem) : An implementation of C++17 std::filesystem for C++11 /C++14/C++17 on Windows, macOS and Linux.
   - [littlefs](https://github.com/ARMmbed/littlefs) : A little fail-safe filesystem designed for microcontrollers
@@ -289,6 +228,7 @@ If you want to add projects here, do a push request or open an issue!
   - [filesystem](https://github.com/wjakob/filesystem) : A tiny self-contained path manipulation library for C++
   - [tinydir](https://github.com/cxong/tinydir) : Lightweight, portable and easy to integrate C directory and file reader
   - [dirent](https://github.com/tronkko/dirent) : C/C++ library for retrieving information on files and directories
+  - [whereami](https://github.com/gpakosz/whereami) : Locate the current executable and the current module/library on the file system
 - Reflection & Serialization
   - [Vzor](https://github.com/nikoladimitroff/Vzor) : Vzor is a reflection library for C++, with interface in Python and C++, macroless, intrusiveless, working on top modern C++ attributes
   - [magic_enum](https://github.com/Neargye/magic_enum) : Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
@@ -326,6 +266,9 @@ If you want to add projects here, do a push request or open an issue!
   - [magic_get](https://github.com/apolukhin/magic_get) : std::tuple like methods for user defined types without any macro or boilerplate code
   - [ctti](https://github.com/Manu343726/ctti) : Compile Time Type Information for C++
   - [nameof](https://github.com/Neargye/nameof) : Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum
+  - [flatbuffers](https://github.com/google/flatbuffers) : FlatBuffers: Memory Efficient Serialization Library
+  - [protobuf](https://github.com/protocolbuffers/protobuf) : Protocol Buffers - Google's data interchange format
+  - [archive](https://github.com/voidah/archive) : Simple, compact, endian-safe and header-only serialization/deserialization for C++
 - Metaprogramming
   - [monster](https://github.com/deepgrace/monster) : The Art of Template MetaProgramming in Modern C++
   - [STT-C-Compile-Time-Snake](https://github.com/mattbierner/STT-C-Compile-Time-Snake) : Snake/Nibbler implementation using C++ template metaprogamming
@@ -344,6 +287,8 @@ If you want to add projects here, do a push request or open an issue!
   - [delegates](https://github.com/mamedev/delegates) : Fast delegates implementation
   - [SLACC](https://github.com/RippeR37/SLACC) : Simple Lightweight Adaptable Command Console
   - [function_ref](https://github.com/TartanLlama/function_ref) : A lightweight, non-owning reference to a callable.
+  - [expected](https://github.com/TartanLlama/expected) : C++11/14/17 std::expected with functional-style extensions
+  - [pluscallback](https://github.com/codeplea/pluscallback) : easy to use callback library for C++
 - Containers
   - [mlib](https://github.com/P-p-H-d/mlib) : Library of generic and type safe containers in pure C language (C99 or C11) for a wide collection of container (comparable to the C++ STL).
   - [SmartIteratorCpp11](https://github.com/qnope/SmartIteratorCpp11) : Smart iterator like range-v3 in C++11
@@ -375,6 +320,7 @@ If you want to add projects here, do a push request or open an issue!
   - [xenium](https://github.com/mpoeter/xenium) : A C++ library providing various concurrent data structures and reclamation schemes.
   - [sparsehash-c11](https://github.com/sparsehash/sparsehash-c11) : Experimental C++11 version of sparsehash
   - [Sprout](https://github.com/bolero-MURAKAMI/Sprout) : C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.
+  - [immutable-cpp](https://github.com/rsms/immutable-cpp) : Persistent immutable data structures for C++
 - Logging
   - [DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) : DebugView++, collect, view and filter your application logs
   - [NSLogger](https://github.com/fpillet/NSLogger) : A modern, flexible logging tool
@@ -385,11 +331,11 @@ If you want to add projects here, do a push request or open an issue!
   - [loguru](https://github.com/emilk/loguru) : A lightweight C++ logging library
   - [static-print](https://github.com/saarraz/static-print) : A GCC 7.1 patch that adds a 'static_print' statement to C++.
   - [nanoprintf](https://github.com/charlesnicholson/nanoprintf) : A tiny embeddable printf replacement written in C89/C99.
-  - [dbg-macro](https://github.com/sharkdp/dbg-macro) : A dbg(…) macro for C++
   - [_._](https://github.com/vitaut/_._) : A simple streaming library
   - [cpp-format](https://github.com/mutouyun/cpp-format) : C#/Rust/Python style formatting in C++.
   - [tsf](https://github.com/IMQS/tsf) : Type safe printf-compatible C++ library
   - [fmt](https://github.com/fmtlib/fmt) : A modern formatting library
+  - [tinyformat](https://github.com/c42f/tinyformat) : Minimal, type safe printf replacement library for C++
 - Signals and Slots
   - [SISL](https://github.com/Asphox/SISL) : An other cross-platform/cross-compiler Signals and Slots library for C++11 and more...
   - [SimpleSignal](https://github.com/victorsummer/SimpleSignal) : Simple signal using templates
@@ -445,6 +391,8 @@ If you want to add projects here, do a push request or open an issue!
   - [profi](https://github.com/stoyannk/profi) : A light-weight C++ profiling library
   - [SIMD-Visualiser](https://github.com/piotte13/SIMD-Visualiser) : A tool to graphically visualize SIMD code
   - [Caliper](https://github.com/LLNL/Caliper) : Caliper is a flexible application introspection system
+  - [HWCPipe](https://github.com/ARM-software/HWCPipe) : Hardware counters interface
+  - [picobench](https://github.com/iboB/picobench) : A micro microbenchmarking library for C++11 in a single header file
 - Testing
   - [doctest](https://github.com/onqtam/doctest) : The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
   - [EATest](https://github.com/electronicarts/EATest) : EATest is a C++ unit testing framework. It's goal is to have a scalable architecture, have minimal dependencies, and simple usage.
@@ -460,19 +408,17 @@ If you want to add projects here, do a push request or open an issue!
   - [mettle](https://github.com/SuperV1234/mettle) : A C++14 unit test framework
   - [Catch2](https://github.com/catchorg/Catch2) : A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
   - [mutate_cpp](https://github.com/nlohmann/mutate_cpp) : C++ Mutation Test Environment
+  - [trompeloeil](https://github.com/rollbear/trompeloeil) : Header only C++14 mocking framework
 - Platforms
   - [cpuinfo](https://github.com/pytorch/cpuinfo) : CPU INFOrmation library (x86/x86-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)
   - [yue](https://github.com/yue/yue) : A library for creating native cross-platform GUI apps
-  - [OpenHMD](https://github.com/OpenHMD/OpenHMD) : Free and Open Source API and drivers for immersive technology.
   - [cpp-ipc](https://github.com/mutouyun/cpp-ipc) : C++ IPC Library: A high-performance inter-process communication using shared memory on Linux/Windows.
   - [portable-file-dialogs](https://github.com/samhocevar/portable-file-dialogs) : Portable GUI dialogs library, C++11, single-header
   - [platform_bionic](https://github.com/GrapheneOS/platform_bionic) : Hardened Android standard C library. Some of the past hardening has not yet been ported from Marshmallow, Nougat and Oreo to this Android Pie repository. Most is available via archived tags in http…
-  - [PowerToys](https://github.com/microsoft/PowerToys) : Windows system utilities to maximize productivity
   - [wil](https://github.com/microsoft/wil) : Windows Implementation Library
   - [ipc](https://github.com/jarikomppa/ipc) : Public domain single header inter process communication primitives
   - [flow9](https://github.com/area9innovation/flow9) : Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
   - [win-wallpaper](https://github.com/sindresorhus/win-wallpaper) : Manage the desktop wallpaper on Windows
-  - [AESCrypt](https://github.com/paulej/AESCrypt) : File Encryption software for multiple platforms
   - [cpu_features](https://github.com/google/cpu_features) : A cross platform C99 library to get cpu features at runtime.
   - [switch-portlibs-examples](https://github.com/switchbrew/switch-portlibs-examples) : Switch portlibs examples using devkitA64 and libnx.
   - [libnx](https://github.com/switchbrew/libnx) : Library for Switch Homebrew
@@ -495,6 +441,7 @@ If you want to add projects here, do a push request or open an issue!
   - [dynlib-loader](https://github.com/anthony-leclerc/dynlib-loader) : Cross-platform Runtime dynamic library loader (.dll / .so).
   - [dynamicLinker](https://github.com/Marqin/dynamicLinker) : C++11 wrapper for Linux / OS X / Windows / BSD dynamic libraries ( .so .dylib .dll ).
   - [systemd](https://github.com/systemd/systemd) : The systemd System and Service Manager
+  - [not-enough-standards](https://github.com/Alairion/not-enough-standards) : A modern header-only C++ library that provides platform-independent utilities.
 - Command Line Arguments
   - [getopt](https://github.com/mpusz/getopt) : C++ command line options parser for C++ Standard Library
   - [args](https://github.com/Taywee/args) : A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not nec…
@@ -515,38 +462,65 @@ If you want to add projects here, do a push request or open an issue!
   - [cparse](https://github.com/cparse/cparse) : A C++ configurable Expression Parser. Useful as a Calculator or for helping you write your own Programming Language
 - Date
   - [date](https://github.com/HowardHinnant/date) : A date and time library based on the C++11/14/17 <chrono> header
+  - [asap](https://github.com/mobius3/asap) : A C++ header-only library for creating, displaying, iterating and manipulating dates
+- Clang
+  - [clang](https://github.com/asutton/clang) : 
+  - [clang-reflect](https://github.com/asutton/clang-reflect) : A clean implementation of reflection and related proposals.
+  - [cftf](https://github.com/neobrain/cftf) : Clang from the Future: A C++17 to C++11 source-to-source compiler
+  - [clang-power-tools](https://github.com/Caphyon/clang-power-tools) : Bringing clang-tidy magic to Visual Studio C++ developers.
+  - [clang-format-all](https://github.com/eklitzke/clang-format-all) : Run clang-format -i on all of the files in your C or C++ project
+  - [CppAst](https://github.com/xoofx/CppAst) : CppAst is a .NET library providing a C/C++ parser for header files powered by Clang/libclang with access to the full AST, comments and macros
+  - [autotidy](https://github.com/sasq64/autotidy) : Speedier handling of clang-tidy checking
+  - [cppinsights](https://github.com/andreasfertig/cppinsights) : C++ Insights - See your source code with the eyes of a compiler
+  - [cppast](https://github.com/foonathan/cppast) : Library to parse and work with the C++ AST
+- HotReload
+  - [car](https://github.com/nicholaschiasson/car) : Compile and Run! Execute source files directly without worrying at all about compiling.
+  - [PolyHook_2_0](https://github.com/stevemk14ebr/PolyHook_2_0) : C++17, x86/x64 Hooking Libary v2.0
+  - [Ratchet](https://github.com/themeldingwars/Ratchet) : A gameclient hooking framework to aid debuging
+  - [PolyHook](https://github.com/stevemk14ebr/PolyHook) : x86/x64 C++ Hooking Library
+  - [jet-live](https://github.com/ddovod/jet-live) : c++ hot code reload for linux and macos
+  - [blink](https://github.com/crosire/blink) : A tool which allows you to edit source code of any MSVC C++ project live at runtime
+  - [CToy](https://github.com/anael-seghezzi/CToy) : Interactive C coding environment
+  - [C-Hotloading](https://github.com/RandyGaul/C-Hotloading) : Example of MSVC makefile project for hotloading C with intellisense/debugger compatability
+  - [RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) : Change C++ code at runtime
+  - [live_reload_test](https://github.com/nlguillemot/live_reload_test) : demonstration of live reloading
+  - [cr](https://github.com/fungos/cr) : cr.h: A Simple C Hot Reload Header-only Library
+  - [live_edit](https://github.com/azmr/live_edit) : A collection of single-header libraries to help with reloading, debugging and profiling C(++) code.
+- UID
+  - [uuid_h](https://github.com/wc-duck/uuid_h) : Single file, STB-style, "lib" to generate uuid:s.
+  - [yauid](https://github.com/lexborisov/yauid) : A decentralized unique ID generator (int64)
+- Debug
+  - [PPK_ASSERT](https://github.com/gpakosz/PPK_ASSERT) : PPK_ASSERT is a cross platform drop-in & self-contained C++ assertion library
+  - [debugbreak](https://github.com/scottt/debugbreak) : break into the debugger programmatically
+  - [crashpad](https://github.com/chromium/crashpad) : A crash-reporting system
+  - [in_constexpr](https://github.com/SaadAhmad/in_constexpr) : An approach for runtime detection inside a constexpr function
+  - [backward-cpp](https://github.com/bombela/backward-cpp) : A beautiful stack trace pretty printer for C++
+  - [debug_assert](https://github.com/foonathan/debug_assert) : Simple, flexible and modular assertion macro.
+  - [EAAssert](https://github.com/electronicarts/EAAssert) : EAAssert is a simple and lightweight assert technology.
+  - [dbg-macro](https://github.com/sharkdp/dbg-macro) : A dbg(…) macro for C++
+  - [dbgtools](https://github.com/wc-duck/dbgtools) : Small collection of debug-related drop-in c/c++-utils
 
 ## Libraries
+- [HandyCpp](https://github.com/malamanteau/HandyCpp) : A large collection of header only utilities and convenience functions that make C++17 development happier.
 - [single_file_libs](https://github.com/prideout/single_file_libs) : List of single-file C/C++ libraries.
 - [bitsquid-foundation](https://github.com/niklas-ourmachinery/bitsquid-foundation) : A minimalistic foundation library with functions for memory allocation, basic collections, etc. The library has been written with a data-oriented philosophy: POD structures are preferred over class…
-- [icewm](https://github.com/bbidulock/icewm) : A window manager designed for speed, usability, and consistency
-- [steam-runtime-helpers](https://github.com/jorgenpt/steam-runtime-helpers) : 
-- [HandyCpp](https://github.com/malamanteau/HandyCpp) : A large collection of header only utilities and convenience functions that make C++17 development happier.
-- [raylib](https://github.com/raysan5/raylib) : A simple and easy-to-use library to enjoy videogames programming
 - [EABase](https://github.com/electronicarts/EABase) : EABase is a small set of header files that define platform-independent data types and platform feature macros.
-- [samples](https://github.com/oliora/samples) : Code samples
 - [EAStdC](https://github.com/electronicarts/EAStdC) : EAStdC is a package which implements basic library facilities that are similar to those in the standard C library.
 - [acd](https://github.com/acdemiralp/acd) : Single file utilities for C++.
 - [single-file-libs](https://github.com/machinamentum/single-file-libs) : super permissive, drop-in, single file stuff
 - [par](https://github.com/prideout/par) : single-file C libraries from Philip Allan Rideout
-- [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) : A collection of services with great free tiers for developers on a budget
-- [blastlibs](https://github.com/blastbay/blastlibs) : Public domain, single file libraries for C and C++.
 - [paq](https://github.com/pennie-quinn/paq) : public domain single-file C/++ libraries for game devs
 - [Core](https://github.com/HeliumProject/Core) : Core libraries and utilities
-- [Maratis-Tiny-C-library](https://github.com/anael-seghezzi/Maratis-Tiny-C-library) : tiny math and image processing in C
 - [dr_libs](https://github.com/mackron/dr_libs) : A collection of public domain single-file libraries for C/C++.
 - [limbus](https://github.com/redien/limbus) : A cross-platform game library in the public domain
-- [mkvfx](https://github.com/meshula/mkvfx) : Build scripts for libraries commonly used in games, film and vfx
 - [RandomCode](https://github.com/Atrix256/RandomCode) : Random projects that are ok to be public, like blog stuff
 - [tinypile](https://github.com/fgenesis/tinypile) : Assorted small one-or-two-file libs. C/C++. Public domain. Cross-platform. No deps.
 - [dm](https://github.com/dariomanesku/dm) : Header-only base C++ library.
-- [dbgtools](https://github.com/wc-duck/dbgtools) : Small collection of debug-related drop-in c/c++-utils
 - [sokol](https://github.com/floooh/sokol) : minimal cross-platform standalone C headers
 - [gamedev_libraries](https://github.com/raizam/gamedev_libraries) : A collection of open source c/c++ libraries for gamedev
 - [Flint](https://github.com/stevenlr/Flint) : Public domain single-file header-only C libraries
 - [sx](https://github.com/septag/sx) : Portable base library for C programmers, designed for performance and simplicity.
 - [cosmos](https://github.com/OpenGenus/cosmos) : Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum
-- [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) : 180+ Algorithm & Data Structure Problems using C++
 - [mmx](https://github.com/vurtun/mmx) : single header libraries for C/C++
 - [final_game_tech](https://github.com/f1nalspace/final_game_tech) : Game related libraries written in C/C++
 - [bss-util](https://github.com/Black-Sphere-Studios/bss-util) : Black Sphere Studios utility library for C/C++
@@ -556,7 +530,6 @@ If you want to add projects here, do a push request or open an issue!
 - [miscsrc](https://github.com/wernsey/miscsrc) : My collection of miscellaneous source code
 - [libs](https://github.com/mattiasgustavsson/libs) : Single-file public domain libraries for C/C++
 - [stb](https://github.com/nothings/stb) : stb single-file public domain libraries for C/C++
-- [leetcode](https://github.com/haoel/leetcode) : LeetCode Problems' Solutions
 - [tinybits](https://github.com/r-lyeh/tinybits) : Tiny bits and useful snippets that I keep using everywhere (C, C++)
 - [tacent](https://github.com/bluescan/tacent) : A collection of C++ modules implementing linear algebra, text and file IO, containers, image loading and saving, command-line parsing, etc. Useful for the foundation of a game engine or other inter…
 - [libdhcore](https://github.com/septag/libdhcore) : Lightweight, performance oriented, Core library for 'C' programmers
@@ -573,7 +546,16 @@ If you want to add projects here, do a push request or open an issue!
 - [rsm](https://github.com/Rosme/rsm) : Utility Library
 - [bx](https://github.com/bkaradzic/bx) : Base library used across multiple projects
 - [utils](https://github.com/eigenbom/utils) : A collection of data structures and utilities (C++11)
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) : All Algorithms implemented in C++
+- [loki](https://github.com/dutor/loki) : A C++ Template library, developed by Andrei Alexandrescu, the author of the book Modern C++ Design.
+- [loki-lib](https://github.com/snaewe/loki-lib) : Loki is a C++ library of designs, containing flexible implementations of common design patterns and idioms.
+- [GSL](https://github.com/microsoft/GSL) : Guidelines Support Library
+- [vrm_core](https://github.com/SuperV1234/vrm_core) : Lightweight C++14 utility library. (Modernized, stripped and cleaned-up version of SSVUtils.)
+- [Aurora](https://github.com/Bromeon/Aurora) : Header-only library with unconventional C++ features, like deep-copy smart pointers, dynamic dispatch, type-erased ranges
+- [gsl-lite](https://github.com/martinmoene/gsl-lite) : gsl lite - A single-file header-only version of ISO C++ Guidelines Support Library (GSL) for C++98, C++11 and later
+- [cpp-utilities](https://github.com/eteran/cpp-utilities) : Miscellaneous C++11 utility classes and functions
+- [Snippets](https://github.com/DanielGibson/Snippets) : (Hopefully) useful code snippets and header-only libs
+- [sts](https://github.com/kieselsteini/sts) : My collection of public domain single file libraries
+- [gb](https://github.com/gingerBill/gb) : gb single-file public domain libraries for C & C++
 
 ## Engines
 - [game](https://github.com/onqtam/game) : The culmination of everything I'm passionate about
@@ -679,6 +661,8 @@ If you want to add projects here, do a push request or open an issue!
 - [gebbdoom](https://github.com/fabiensanglard/gebbdoom) : Game Engine Black Book: Doom
 - [ALX](https://github.com/axilmar/ALX) : C++11 Allegro 5 wrapper library.
 - [bsf](https://github.com/GameFoundry/bsf) : Modern C++14 library for the development of real-time graphical applications
+- [ClanLib](https://github.com/sphair/ClanLib) : ClanLib is a cross platform C++ toolkit library.
+- [raylib](https://github.com/raysan5/raylib) : A simple and easy-to-use library to enjoy videogames programming
 - SFML based engines
   - [SFML-Game-Development-Book](https://github.com/SFML/SFML-Game-Development-Book) : Full and up-to-date source code of the chapters of the "SFML Game Development" book
   - [SFML-book](https://github.com/Krozark/SFML-book) : SFML Blueprint book, source code
@@ -821,6 +805,10 @@ If you want to add projects here, do a push request or open an issue!
 - [SSE-to-NEON](https://github.com/otim/SSE-to-NEON) : Header file to translate SSE instructions to ARM NEON instructions
 - [flatbush](https://github.com/IMQS/flatbush) : C++ port of https://github.com/mourner/flatbush
 - [libsimdpp](https://github.com/p12tic/libsimdpp) : Portable header-only zero-overhead C++ low level SIMD library
+- [seamoptimizer](https://github.com/ands/seamoptimizer) : A C/C++ single-file library that minimizes the hard transition errors of disjoint edges in lightmaps.
+- [tinyexpr](https://github.com/codeplea/tinyexpr) : tiny recursive descent expression parser, compiler, and evaluation engine for math expressions
+- [Summed-Area-Table](https://github.com/corporateshark/Summed-Area-Table) : Summed-Area Table in a single file header-only C++11 library
+- [fft](https://github.com/wareya/fft) : Public-domain single-header FFT library (power-of-2 size case only)
 - Cryptography and Hashing and Compression
   - [openh264](https://github.com/cisco/openh264) : Open Source H.264 Codec
   - [oldunzip](https://github.com/jsummers/oldunzip) : ZIP implode/explode and reduce/expand decompression libraries
@@ -866,6 +854,10 @@ If you want to add projects here, do a push request or open an issue!
   - [bundle](https://github.com/r-lyeh-archived/bundle) : Bundle, an embeddable compression library: DEFLATE, LZMA, LZIP, BZIP2, ZPAQ, LZ4, ZSTD, BROTLI, BSC, CSC, BCM, MCM, ZMOLLY, ZLING, TANGELO, SHRINKER, CRUSH, LZJB and SHOCO streams in a ZIP file (C++03)(C++11)
   - [deutex](https://github.com/Doom-Utils/deutex) : WAD composer for Doom, Heretic, Hexen, and Strife
   - [cxx14-hash](https://github.com/asutton/cxx14-hash) : An object hashing facility.
+  - [nibrans](https://github.com/BareRose/nibrans) : Simple, single-file, nibble-based, adaptive rANS library with SSE2-accelerated modeling
+  - [pithy](https://github.com/johnezang/pithy) : Fast compression / decompression library.
+  - [microtar](https://github.com/rxi/microtar) : A lightweight tar library written in ANSI C
+  - [dmc_unrar](https://github.com/DrMcCoy/dmc_unrar) : A dependency-free, single-file FLOSS unrar library
 - Linear Algebra
   - [cglm](https://github.com/recp/cglm) : Highly Optimized Graphics Math (glm) for C
   - [eigen](https://github.com/PX4/eigen) : Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
@@ -977,6 +969,7 @@ If you want to add projects here, do a push request or open an issue!
 - [moderngpu](https://github.com/moderngpu/moderngpu) : Patterns and behaviors for GPU computing
 - [water-resources](https://github.com/crest-ocean/water-resources) : Resources for water rendering
 - [cgltf](https://github.com/prideout/cgltf) : Single-file C glTF loader
+- [sts](https://github.com/Sigkill79/sts) : Single file library for vertex cache optimisation of triangles.
 - API Abstractions
   - [nicegraf](https://github.com/nicebyte/nicegraf) : An abstraction layer for low-level platform-specific graphics APIs.
   - [swiftshader](https://github.com/google/swiftshader) : SwiftShader is a high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs. Its goal is to provide hardware independence for advanced 3D graphics.
@@ -1221,6 +1214,7 @@ If you want to add projects here, do a push request or open an issue!
   - [graphicsfuzz](https://github.com/google/graphicsfuzz) : A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
   - [colourblind](https://github.com/azmr/colourblind) : A C header file & shader for simulating colourblindness and checking contrast.
   - [hsluv](https://github.com/hsluv/hsluv) : Human-friendly HSL, reference implementation (revision 4)
+  - [hlslparser](https://github.com/Thekla/hlslparser) : HLSL Parser and Translator for HLSL, GLSL, and MSL.
 - GUI
   - [elements](https://github.com/cycfi/elements) : Elements C++ GUI library
   - [qt3d](https://github.com/qt/qt3d) : Qt3D
@@ -1314,6 +1308,9 @@ If you want to add projects here, do a push request or open an issue!
   - [topng](https://github.com/FRex/topng) : Convert image to png using stb_image and stb_image_write
   - [gif_load](https://github.com/hidefromkgb/gif_load) : A slim, fast and header-only GIF loader written in C
   - [mozjpeg](https://github.com/mozilla/mozjpeg) : Improved JPEG encoder.
+  - [nanosvg](https://github.com/memononen/nanosvg) : Simple stupid SVG parser
+  - [gif-h](https://github.com/charlietangora/gif-h) : Simple C++ one-header library for the creation of animated GIFs from image data.
+  - [TinyJPEG](https://github.com/serge-rgb/TinyJPEG) : Single header lib for JPEG encoding. Public domain. C99. stb style.
 - PBR & RT & PT
   - [raytracer-gpupro4](https://github.com/elfrank/raytracer-gpupro4) : 
   - [VisRTX](https://github.com/NVIDIA/VisRTX) : Visualization framework powered by NVIDIA RTX technology
@@ -1342,7 +1339,7 @@ If you want to add projects here, do a push request or open an issue!
   - [The-Forge](https://github.com/ConfettiFX/The-Forge) : The Forge Cross-Platform Rendering Framework PC, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4
   - [simple-spectral](https://github.com/imallett/simple-spectral) : A Simple Spectral Renderer
 
-## Audio & Video
+## Multimedia
 - Audio
   - [soloud](https://github.com/jarikomppa/soloud) : Free, easy, portable audio engine for games
   - [openal-soft](https://github.com/kcat/openal-soft) : OpenAL Soft is a software implementation of the OpenAL 3D audio API.
@@ -1433,6 +1430,7 @@ If you want to add projects here, do a push request or open an issue!
   - [ThunderLoom](https://github.com/Thunderloom/ThunderLoom) : A physically based shader for woven cloth
 
 ## Networking
+- [LUrlParser](https://github.com/corporateshark/LUrlParser) : Lightweight URL & URI parser (RFC 1738, RFC 3986)
 - TCP/UDP/HTTP
   - [netcode.io](https://github.com/networkprotocol/netcode.io) : A protocol for secure client/server connections over UDP
   - [enet](https://github.com/lsalzman/enet) : ENet reliable UDP networking library
@@ -1463,6 +1461,7 @@ If you want to add projects here, do a push request or open an issue!
   - [swrap](https://github.com/BareRose/swrap) : Portable, single-file, protocol-agnostic TCP and UDP socket wrapper, primarily for game networking
   - [sdk](https://github.com/networknext/sdk) : Network Next SDK
   - [librg-cpp](https://github.com/markatk/librg-cpp) : C++ wrapper for librg network library
+  - [zed_net](https://github.com/Smilex/zed_net) : Single file public domain networking library
 - SQL
   - [scylla](https://github.com/scylladb/scylla) : NoSQL data store using the seastar framework, compatible with Apache Cassandra
   - [NLDatabase](https://github.com/raven-ie/NLDatabase) : Lightweight C++ wrapper for SQLite
@@ -1485,6 +1484,11 @@ If you want to add projects here, do a push request or open an issue!
   - [hifi](https://github.com/highfidelity/hifi) : Open source client/server software for creating shared VR environments. Docs at http://docs.highfidelity.com We are hiring: http://highfidelity.com/jobs Also, PT work available at http://worklist.net
   - [crow](https://github.com/ipkn/crow) : Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
   - [agones](https://github.com/googleforgames/agones) : Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
+  - [civetweb](https://github.com/civetweb/civetweb) : Embedded C/C++ web server
+  - [EmbeddableWebServer](https://github.com/hellerf/EmbeddableWebServer) : Cross-platform, single .h file HTTP server (Windows, Linux, Mac OS X)
+  - [libcluon](https://github.com/chrberger/libcluon) : libcluon is a small and efficient, single-file and header-only library written in modern C++ to power microservices.
+  - [mongoose](https://github.com/cesanta/mongoose) : Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocke…
+  - [yhs](https://github.com/tom-seddon/yhs) : Embeddable HTTP server.
 
 ## AI
 - Neural Network & Deep Learning
@@ -1508,6 +1512,7 @@ If you want to add projects here, do a push request or open an issue!
   - [darknet](https://github.com/pjreddie/darknet) : Convolutional Neural Networks
   - [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) : header only, dependency-free deep learning framework in C++14
   - [TensorRT](https://github.com/NVIDIA/TensorRT) : TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
+  - [kann](https://github.com/attractivechaos/kann) : A lightweight C library for artificial neural networks
 - Path
   - [recastnavigation](https://github.com/recastnavigation/recastnavigation) : Navigation-mesh Toolset for Games
   - [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) : High Level API Components for Runtime NavMesh Building
@@ -1535,6 +1540,8 @@ If you want to add projects here, do a push request or open an issue!
 - [smoll-vm](https://github.com/SuperFola/smoll-vm) : just a smoll vm in c++14
 - [haxe](https://github.com/HaxeFoundation/haxe) : Haxe - The Cross-Platform Toolkit
 - [c4](https://github.com/rswier/c4) : C in four functions
+- [oc](https://github.com/garettbass/oc) : Macro magic for declaring/calling Objective-C APIs from C11 or C++. Preloads selectors, chooses the correct objc_msgSend to call per method/platform.
+- [breadboard](https://github.com/google/breadboard) : C++ graph based event system
 - Lua
   - [luazdf](https://github.com/aiq/luazdf) : LuaZDF - Lua Zero Dependency Functions
   - [luavela](https://github.com/eliasdaler/luavela) : Implementation of Lua 5.1, originally a fork of LuaJIT 2.0
@@ -1585,6 +1592,7 @@ If you want to add projects here, do a push request or open an issue!
 - [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) : A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 - [DesignPattern](https://github.com/wxjeacen/DesignPattern) : 
 - [game-programming-patterns](https://github.com/munificent/game-programming-patterns) : Source repo for the book
+- [fsm-variant](https://github.com/mpusz/fsm-variant) : Finite State Machine implementation using std::variant
 - EntityComponentSystem
   - [ecs-example](https://github.com/eigenbom/ecs-example) : An example of an ECS architecture in C++
   - [Diana](https://github.com/discoloda/Diana) : Entity Component system like Artemis implemented in C
@@ -1610,6 +1618,9 @@ If you want to add projects here, do a push request or open an issue!
   - [libgamepad](https://github.com/mtwilliams/libgamepad) : Cross-platform library for gamepad input. MIT licensed.
   - [gainput](https://github.com/jkuhlmann/gainput) : Cross-platform C++ input library supporting gamepads, keyboard, mouse, touch http://gainput.johanneskuhlmann.de/
   - [gesture_recognition](https://github.com/bautolp/gesture_recognition) : UVIC ECE 499 Real-Time Gesture Recognition Project
+  - [OpenHMD](https://github.com/OpenHMD/OpenHMD) : Free and Open Source API and drivers for immersive technology.
+  - [EasyTab](https://github.com/ApoorvaJ/EasyTab) : Single-header multi-platform tablet library
+  - [libue](https://github.com/houqp/libue) : A self-contained minimal library for interacting with Linux hot-plug events
 - Maps
   - [tiled](https://github.com/bjorn/tiled) : A flexible level editor
   - [tmxlite](https://github.com/fallahn/tmxlite) : lightweight C++14 parser for Tiled tmx files
@@ -1636,9 +1647,7 @@ If you want to add projects here, do a push request or open an issue!
   - [tiniest-analytics](https://github.com/Pintea/tiniest-analytics) : VERY simple cross-platform C++ analytics for games (using Google Analytics)
   - [BRINDIE-FREE](https://github.com/sarienn/BRINDIE-FREE) : BRINDIE FREE - an .ai sourcefile with sizes for art assets needed to create Facebook page, Twitter profile, Steam Store page and Steam Developer page
   - [Proton](https://github.com/ValveSoftware/Proton) : Compatibility tool for Steam Play based on Wine and additional components
-- GameDesign
-  - [gamebook](https://github.com/r-lyeh-archived/gamebook) : An unified game design document convention (CC0, Markdown)
-  - [trust](https://github.com/ncase/trust) : An interactive guide to the game theory of cooperation
+  - [steam-runtime-helpers](https://github.com/jorgenpt/steam-runtime-helpers) : 
 - Games
   - [endless-sky](https://github.com/endless-sky/endless-sky) : Space exploration, trading, and combat game.
   - [Cytopia](https://github.com/CytopiaTeam/Cytopia) : A city building simulation game
@@ -1720,6 +1729,12 @@ If you want to add projects here, do a push request or open an issue!
 - [android-ndk](https://github.com/googlesamples/android-ndk) : Android NDK samples with Android Studio
 - [fips](https://github.com/floooh/fips) : High-level build system for distributed, multi-platform C/C++ projects.
 - [reopt](https://github.com/GaloisInc/reopt) : A tool for analyzing x86-64 binaries.
+- [cppcheck](https://github.com/danmar/cppcheck) : static analysis of C/C++ code
+- [cpp-forensics](https://github.com/IMQS/cpp-forensics) : C++ crash dump server
+- [cpack](https://github.com/OnyxFlames/cpack) : File-to-sourcecode packer.
+- [templight](https://github.com/mikael-s-persson/templight) : Templight is a Clang-based tool to profile the time and memory consumption of template instantiations and to perform interactive debugging sessions to gain introspection into the template instantia…
+- [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) : A collection of services with great free tiers for developers on a budget
+- [mkvfx](https://github.com/meshula/mkvfx) : Build scripts for libraries commonly used in games, film and vfx
 - Visual Studio Extensions
   - [SPIRV-VSExtension](https://github.com/SaschaWillems/SPIRV-VSExtension) : SPIR-V extension for Visual Studio
   - [asm-dude](https://github.com/HJLebbink/asm-dude) : Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
@@ -1730,6 +1745,8 @@ If you want to add projects here, do a push request or open an issue!
   - [UnityMixedCallstack](https://github.com/Unity-Technologies/UnityMixedCallstack) : Visual Studio native debugger extension to help debug native applications using Mono.
   - [vs-chromium](https://github.com/chromium/vs-chromium) : A Visual Studio extension containing a collection of tools to help contributing code to the Chromium project.
   - [VSDebugPro](https://github.com/ovidiuvio/VSDebugPro) : Enhanced debugging for C/C++. Dump blocks of data, load data in memory and more.
+  - [CompileTimer](https://github.com/janwilmans/CompileTimer) : Set of tests to benchmark the compile time of c++ constructs
+  - [TestAdapter_Catch2](https://github.com/JohnnyHendriks/TestAdapter_Catch2) : Visual Studio Test Adapter for Catch2
 - Git
   - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) : Flight rules for git
   - [gitsuggest](https://github.com/csurfer/gitsuggest) : A tool to suggest github repositories based on the repositories you have shown interest in.
@@ -1745,6 +1762,10 @@ If you want to add projects here, do a push request or open an issue!
   - [premake-cmake](https://github.com/TurkeyMan/premake-cmake) : cmake output for premake5
   - [vcpkg](https://github.com/microsoft/vcpkg) : C++ Library Manager for Windows, Linux, and MacOS
   - [ucm](https://github.com/onqtam/ucm) : Useful cmake macros that help with: compiler/linker flags, collecting sources, PCHs, Unity builds and other stuff.
+  - [cotire](https://github.com/sakra/cotire) : CMake module to speed up builds.
+  - [cmakepp](https://github.com/toeb/cmakepp) : An Enhancement Suite for the CMake Build System
+  - [cmake_format](https://github.com/cheshirekow/cmake_format) : Source code formatter for cmake listfiles.
+  - [learning-cmake](https://github.com/Akagi201/learning-cmake) : learning cmake
 
 ## Awesome
 - [awesome-cmake](https://github.com/onqtam/awesome-cmake) : A curated list of awesome CMake resources, scripts, modules, examples and others.
@@ -1782,6 +1803,7 @@ If you want to add projects here, do a push request or open an issue!
 - [awesome](https://github.com/sindresorhus/awesome) : Awesome lists about all kinds of interesting topics
 - [awesome-c](https://github.com/uhub/awesome-c) : A curated list of awesome C frameworks, libraries and software.
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) : A curated list of awesome articles, websites and resources about mental health in the software industry.
+- [modern-cpp-tutorial](https://github.com/utilForever/modern-cpp-tutorial) : A curated list of Modern C++ articles, examples, tutorials, frameworks, libraries, and shiny things.
 
 ## GameProgrammerPath
 - [uLicense](https://github.com/r-lyeh/uLicense) : Tiny and free software license in 299 bytes.
@@ -1791,6 +1813,10 @@ If you want to add projects here, do a push request or open an issue!
 - [interviews](https://github.com/kdn251/interviews) : Everything you need to know to get the job.
 - [interview](https://github.com/andreis/interview) : Everything you need to prepare for your technical interview
 - [reverse-interview](https://github.com/viraptor/reverse-interview) : Questions to ask the company during your interview
+
+## GameDesign
+- [gamebook](https://github.com/r-lyeh-archived/gamebook) : An unified game design document convention (CC0, Markdown)
+- [trust](https://github.com/ncase/trust) : An interactive guide to the game theory of cooperation
 
 ## Website
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) : Jekyll theme for building a personal site, blog, project documentation, or portfolio.
