@@ -580,6 +580,7 @@ If you want to add projects here, do a push request or open an issue!
 - [aether3d](https://github.com/bioglaze/aether3d) : Aether3D Game Engine
 - [kiyosGameEngine](https://github.com/kiyoMatsui/kiyosGameEngine) : KiyoGameEngine is a small header only C++17 library, that provides boilerplate code for a small to medium sized games
 - [Wolf.Engine](https://github.com/WolfEngine/Wolf.Engine) : The Wolf is a comprehensive set of C++ open source libraries for realtime rendering, realtime streaming and game developing
+- [OpenXRay](https://github.com/OpenXRay/xray-16) : Improved version of the X-Ray engine, used in world famous S.T.A.L.K.E.R. game series by GSC Game World.
 - [mintaro](https://github.com/dr-soft/mintaro) : A small framework for making simple games.
 - [DmitrysEngine](https://github.com/mrDIMAS/DmitrysEngine) : C99 cross-platform 3D game engine with absolute minimum of external dependencies
 - [libavg](https://github.com/libavg/libavg) : 
