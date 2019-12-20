@@ -1704,7 +1704,7 @@ If you want to add projects here, do a push request or open an issue!
 - [gh-card](https://github.com/nwtgck/gh-card) : 
 - [FNode](https://github.com/victorfisac/FNode) : Tool based in nodes to build GLSL shaders without any programming knowledge written in C using OpenGL and GLFW.
 - [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator) : A simple program that converts images into normal maps
-- [Laigter](https://azagaya.itch.io/laigter) : A simple tool for automatic generation of normal/specular/parallax/occlussion maps for dynamic lights in games. Mainly focused for 2D sprites. 
+- [Laigter](https://github.com/azagaya/laigter) : A simple tool for automatic generation of normal/specular/parallax/occlussion maps for dynamic lights in games. Mainly focused for 2D sprites. 
 - [cppclean](https://github.com/myint/cppclean) : Finds problems in C++ source that slow development of large code bases
 - [veles](https://github.com/codilime/veles) : Binary data analysis and visualization tool
 - [sanitizers](https://github.com/google/sanitizers) : AddressSanitizer, ThreadSanitizer, MemorySanitizer
