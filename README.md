@@ -180,13 +180,12 @@ If you want to add projects here, do a push request or open an issue!
   - [memory](https://github.com/foonathan/memory) : STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
 - Strings
   - [ryu](https://github.com/ulfjack/ryu) : Converts floating point numbers to decimal strings
-  - [str](https://github.com/MengRao/str) : A SIMD optimized fixed-length string class along with an adaptive hash table for fast searching
+  - [MengRao/str](https://github.com/MengRao/str) : A SIMD optimized fixed-length string class along with an adaptive hash table for fast searching
   - [inplace_string](https://github.com/mpusz/inplace_string) : `mp::inplace_string<CharT, MaxSize, Traits>` is a `std::string`-like class template that stores text content in-place inside the class
   - [arabtype](https://github.com/eloraiby/arabtype) : a small and simple implementation that transform isolated arabic utf8 character strings into contextual forms.
   - [unify](https://github.com/r-lyeh-archived/unify) : A C++11 function to normalize resource identificators
   - [unicode](https://github.com/dabbertorres/unicode) : C++ UTF-8 Strings and Utilities
-  - [unicode](https://github.com/dabbertorres/unicode) : C++ UTF-8 Strings and Utilities
-  - [str](https://github.com/ocornut/str) : Simple C++ string type with an optional local buffer
+  - [ocornut/str](https://github.com/ocornut/str) : Simple C++ string type with an optional local buffer
   - [SuperString](https://github.com/btwael/SuperString) : A fast and memory-optimized string library for C++
   - [stdstring.h](https://github.com/r-lyeh/stdstring.h) : C string utils library (STB style, header-only).
   - [text_view](https://github.com/tahonermann/text_view) : A C++ concepts and range based character encoding and code point enumeration library
