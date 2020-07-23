@@ -782,6 +782,7 @@ If you want to add projects here, do a push request or open an issue!
 - [lovr](https://github.com/bjornbytes/lovr) : Virtual Reality Engine
 - [crown](https://github.com/dbartolini/crown) : The flexible game engine.
 - [OpenSiv3D](https://github.com/Siv3D/OpenSiv3D) : C++17/C++20 framework for creative coding
+- [LDK](https://github.com/marciovmf/ldk) : A game engine being developed from scratch for learning and practicing essential game development skills. Each and every single feature is written from scratch with absolutely no third party code or libraries.
 - SFML based engines
   - [SFML-Game-Development-Book](https://github.com/SFML/SFML-Game-Development-Book) : Full and up-to-date source code of the chapters of the "SFML Game Development" book
   - [SFML-book](https://github.com/Krozark/SFML-book) : SFML Blueprint book, source code
