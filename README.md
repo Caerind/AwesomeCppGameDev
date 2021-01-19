@@ -1692,7 +1692,6 @@ If you want to add projects here, do a push request or open an issue!
   - [cpp-httplib](https://github.com/yhirose/cpp-httplib) : A C++ header-only HTTP/HTTPS server and client library
   - [rinetd](https://github.com/samhocevar/rinetd) : TCP/UDP port redirector
   - [swrap](https://github.com/BareRose/swrap) : Portable, single-file, protocol-agnostic TCP and UDP socket wrapper, primarily for game networking
-  - [sdk](https://github.com/networknext/sdk) : Network Next SDK
   - [librg-cpp](https://github.com/markatk/librg-cpp) : C++ wrapper for librg network library
   - [zed_net](https://github.com/Smilex/zed_net) : Single file public domain networking library
   - [http-parser](https://github.com/nodejs/http-parser) : http request/response parser for c
