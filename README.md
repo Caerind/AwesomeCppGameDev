@@ -323,7 +323,7 @@ If you want to add projects here, do a push request or open an issue!
   - [brigand](https://github.com/edouarda/brigand) : Instant compile time C++ 11 metaprogramming library
   - [cxl](https://github.com/tacticalmelonfarmer/cxl) : A C++17 metaprogramming library. Strings, Parsing, Typelists, Aggregate to Tuple conversions and Constant integral literals
   - [hana](https://github.com/boostorg/hana) : Your standard library for metaprogramming
-- Functionnal Programming
+- Functional Programming
   - [cpp_functional_programming](https://github.com/graninas/cpp_functional_programming) : List of materials about functional programming in C++
   - [hof](https://github.com/boostorg/hof) : Higher-order functions for c++
   - [easing-functions](https://github.com/nicolausYes/easing-functions) : Easing functions implemented in C++
