@@ -4,7 +4,7 @@ A curated list of awesome C++ (mainly) things for Game Development. Inspired by 
 
 ~2000 projects listed here!
 
-If you want to add projects here, do a push request or open an issue! 
+If you want to add projects here, do a pull request or open an issue! 
 
 (Maybe some new categories should be added to sort everything a bit better)
 (Maybe some repositories could be removed from the list too)
@@ -30,6 +30,7 @@ If you want to add projects here, do a push request or open an issue!
 - [Website](#Website)
 
 ## C++
+[Back to top](#Index)
 - [rangeless](https://github.com/ast-al/rangeless) : c++ LINQ -like library of higher-order functions for data manipulation
 - [variant](https://github.com/mpark/variant) : C++17 `std::variant` for C++11/14/17
 - [tweeny](https://github.com/mobius3/tweeny) : A modern C++ tweening library
