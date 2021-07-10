@@ -4,13 +4,13 @@ A curated list of awesome C++ (mainly) things for Game Development. Inspired by 
 
 ~2000 projects listed here!
 
-If you want to add projects here, do a push request or open an issue! 
+If you want to add projects here, do a pull request or open an issue! 
 
 (Maybe some new categories should be added to sort everything a bit better)
 (Maybe some repositories could be removed from the list too)
 
 <!-- START -->
-
+## Index
 - [C++](#C++)
 - [Libraries](#Libraries)
 - [Engines](#Engines)
@@ -30,6 +30,7 @@ If you want to add projects here, do a push request or open an issue!
 - [Website](#Website)
 
 ## C++
+[Back to top](#Index)
 - [rangeless](https://github.com/ast-al/rangeless) : c++ LINQ -like library of higher-order functions for data manipulation
 - [variant](https://github.com/mpark/variant) : C++17 `std::variant` for C++11/14/17
 - [tweeny](https://github.com/mobius3/tweeny) : A modern C++ tweening library
@@ -591,6 +592,7 @@ If you want to add projects here, do a push request or open an issue!
   - [x64dbg](https://github.com/x64dbg/x64dbg) : An open-source x64/x32 debugger for windows.
 
 ## Libraries
+[Back to top](#Index)
 - [HandyCpp](https://github.com/malamanteau/HandyCpp) : A large collection of header only utilities and convenience functions that make C++17 development happier.
 - [single_file_libs](https://github.com/prideout/single_file_libs) : List of single-file C/C++ libraries.
 - [bitsquid-foundation](https://github.com/niklas-ourmachinery/bitsquid-foundation) : A minimalistic foundation library with functions for memory allocation, basic collections, etc. The library has been written with a data-oriented philosophy: POD structures are preferred over class…
@@ -655,6 +657,7 @@ If you want to add projects here, do a push request or open an issue!
 - [MISC](https://github.com/sawickiap/MISC) : Miscellaneous small code snippets.
 
 ## Engines
+[Back to top](#Index)
 - [game](https://github.com/onqtam/game) : The culmination of everything I'm passionate about
 - [Enjon](https://github.com/MrFrenik/Enjon) : Game engine created using OpenGL and C++
 - [Shadow-Functions-Engine](https://github.com/mmmuscus/Shadow-Functions-Engine) : A small ASCII graphical game engine for the windows console (and Linux since v2.0.2.) done in C++
@@ -887,6 +890,7 @@ If you want to add projects here, do a push request or open an issue!
   - [3DNes_Engine](https://github.com/tructv/3DNes_Engine) : Engine to convert NES games into 3D
 
 ## Maths
+[Back to top](#Index)
 - [enoki](https://github.com/mitsuba-renderer/enoki) : Enoki: structured vectorization and differentiation on modern processor architectures
 - [units](https://github.com/mpusz/units) : A Physical Units Library for C++ providing compile-time dimensional analysis and unit/quantity manipulation
 - [Compile-Time-Equations-Handler](https://github.com/Saswatm123/Compile-Time-Equations-Handler) : 
@@ -1079,6 +1083,7 @@ If you want to add projects here, do a push request or open an issue!
   - [matchstick](https://github.com/Mischa-Alff/matchstick) : toying with markov stuff
 
 ## Graphics
+[Back to top](#Index)
 - [fun-with-graphics](https://github.com/FancyVin/fun-with-graphics) : Fun with graphics
 - [abrash-black-book](https://github.com/jagregory/abrash-black-book) : Markdown source for Michael Abrash's Graphics Programming Black Book
 - [GraphicsGems](https://github.com/erich666/GraphicsGems) : Code for the "Graphics Gems" book series
@@ -1566,6 +1571,7 @@ If you want to add projects here, do a push request or open an issue!
   - [MaskedOcclusionCulling](https://github.com/GameTechDev/MaskedOcclusionCulling) : Example code for the research paper "Masked Software Occlusion Culling"; implements an efficient alternative to the hierarchical depth buffer algorithm.
 
 ## Multimedia
+[Back to top](#Index)
 - Audio
   - [soloud](https://github.com/jarikomppa/soloud) : Free, easy, portable audio engine for games
   - [openal-soft](https://github.com/kcat/openal-soft) : OpenAL Soft is a software implementation of the OpenAL 3D audio API.
@@ -1615,6 +1621,7 @@ If you want to add projects here, do a push request or open an issue!
   - [FFMpeg-decode-example](https://github.com/UnickSoft/FFMpeg-decode-example) : Example how to use ffmpeg to decode video file.
 
 ## Physics
+[Back to top](#Index)
 - [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) : Source code for Game Physics Cookbook
 - 2D Physics
   - [Box2D](https://github.com/erincatto/Box2D) : Box2D is a 2D physics engine for games
@@ -1662,6 +1669,7 @@ If you want to add projects here, do a push request or open an issue!
   - [ThunderLoom](https://github.com/Thunderloom/ThunderLoom) : A physically based shader for woven cloth
 
 ## Networking
+[Back to top](#Index)
 - [LUrlParser](https://github.com/corporateshark/LUrlParser) : Lightweight URL & URI parser (RFC 1738, RFC 3986)
 - [wangle](https://github.com/facebook/wangle) : Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 - TCP/UDP/HTTP
@@ -1732,6 +1740,7 @@ If you want to add projects here, do a push request or open an issue!
   - [Game-Server-Configs](https://github.com/GameServerManagers/Game-Server-Configs) : A repo of game server configuration files used by LinuxGSM
 
 ## AI
+[Back to top](#Index)
 - [CppCompetitor](https://github.com/nikoladimitroff/CppCompetitor) : A program for dueling code bots.
 - [Samodiva](https://github.com/nikoladimitroff/Samodiva) : A C++ library for AI stuff. Hopefully it won't be as unfinished as the majority of my other repos.
 - Neural Network & Deep Learning
@@ -1769,6 +1778,7 @@ If you want to add projects here, do a push request or open an issue!
   - [Dubins-Curves](https://github.com/AndrewWalker/Dubins-Curves) : Path generation for the Dubin's car
 
 ## Scripting
+[Back to top](#Index)
 - [scriptorium](https://github.com/r-lyeh-archived/scriptorium) : Game Scripting Languages benchmarked
 - [craftinginterpreters](https://github.com/munificent/craftinginterpreters) : Repository for the book "Crafting Interpreters"
 - [ChaiScript](https://github.com/ChaiScript/ChaiScript) : Embedded Scripting Language Designed for C++
@@ -1827,6 +1837,7 @@ If you want to add projects here, do a push request or open an issue!
   - [v8](https://github.com/v8/v8) : The official mirror of the V8 Git repository
 
 ## GameProgramming
+[Back to top](#Index)
 - [Nodable](https://github.com/berdal84/Nodable) : a node-able bidirectionnal expression editor.
 - [nodeeditor](https://github.com/paceholder/nodeeditor) : Qt Node Editor. Dataflow programming framework
 - [FSM](https://github.com/entt-dev/FSM) : finite-state-machine demo
@@ -1909,6 +1920,7 @@ If you want to add projects here, do a push request or open an issue!
   - [UniformDieCast](https://github.com/TheMaverickProgrammer/UniformDieCast) : C++11 provides chainable and iterable object for uniform die casts. Useful for statistics or table top RPG simulations.
 
 ## Rust
+[Back to top](#Index)
 - [iced](https://github.com/hecrj/iced) : A renderer-agnostic GUI library for Rust, inspired by Elm
 - [tetra](https://github.com/17cupsofcoffee/tetra) : A simple 2D game framework written in Rust
 - [arewegameyet](https://github.com/doppioslash/arewegameyet) : The repository for arewegameyet.rs
@@ -1946,6 +1958,7 @@ If you want to add projects here, do a push request or open an issue!
 - [render-rs](https://github.com/gwihlidal/render-rs) : Collection of rust crates providing rendering abstractions.
 
 ## Tools
+[Back to top](#Index)
 - [build2](https://github.com/build2/build2) : build2 build system
 - [rcrl](https://github.com/onqtam/rcrl) : Read-Compile-Run-Loop: tiny and powerful interactive C++ compiler (REPL)
 - [LibreSprite](https://github.com/LibreSprite/LibreSprite) : Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
@@ -2052,6 +2065,7 @@ If you want to add projects here, do a push request or open an issue!
   - [travis_gcc_cpp17](https://github.com/richelbilderbeek/travis_gcc_cpp17) : Minimal C++17 project using the GCC compiler and is checked by Travis CI
 
 ## Awesome
+[Back to top](#Index)
 - [awesome-cmake](https://github.com/onqtam/awesome-cmake) : A curated list of awesome CMake resources, scripts, modules, examples and others.
 - [bookmarks](https://github.com/CodepediaOrg/bookmarks) : Collection of public dev bookmarks, shared with
 - [cpp_youtube_channels](https://github.com/shafik/cpp_youtube_channels) : Listing of C++ Youtube channels for conferences and user groups
@@ -2094,6 +2108,7 @@ If you want to add projects here, do a push request or open an issue!
 - [awesome-actions](https://github.com/sdras/awesome-actions) : A curated list of awesome actions to use on GitHub
 
 ## GameProgrammerPath
+[Back to top](#Index)
 - [uLicense](https://github.com/r-lyeh/uLicense) : Tiny and free software license in 299 bytes.
 - [game-programmer](https://github.com/miloyip/game-programmer) : A Study Path for Game Programmer
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
@@ -2104,10 +2119,12 @@ If you want to add projects here, do a push request or open an issue!
 - [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) : Path to a Software Architect
 
 ## GameDesign
+[Back to top](#Index)
 - [gamebook](https://github.com/r-lyeh-archived/gamebook) : An unified game design document convention (CC0, Markdown)
 - [trust](https://github.com/ncase/trust) : An interactive guide to the game theory of cooperation
 
 ## Website
+[Back to top](#Index)
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) : Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [water.css](https://github.com/kognise/water.css) : A just-add-css collection of styles to make simple websites just a little nicer
 - [coder](https://github.com/googlecreativelab/coder) : A simple way to make web stuff on Raspberry Pi
