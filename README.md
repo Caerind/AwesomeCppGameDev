@@ -217,7 +217,6 @@ If you want to add projects here, do a pull request or open an issue!
   - [obj_lib](https://github.com/rampantpixels/obj_lib) : OBJ reader and writer library
   - [ffmpeg-cpp](https://github.com/Raveler/ffmpeg-cpp) : A clean, easy-to-use C++ wrapper around the ffmpeg libraries
   - [Parser-Combinators](https://github.com/keean/Parser-Combinators) : C++ parser combinator library
-  - [json5](https://github.com/json5/json5) : JSON5 — JSON for humans
   - [tinyply](https://github.com/ddiakopoulos/tinyply) : C++11 ply 3d mesh format importer & exporter
   - [json](https://github.com/mjansson/json) : Single file in-place JSON/SJSON parser
   - [simdjson](https://github.com/lemire/simdjson) : Parsing gigabytes of JSON per second
