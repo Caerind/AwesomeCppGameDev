@@ -2105,6 +2105,7 @@ If you want to add projects here, do a pull request or open an issue!
 - [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) : A curated list of gaming talks (development, design, etc)
 - [data-oriented-design](https://github.com/dbartolini/data-oriented-design) : A curated list of data oriented design resources.
 - [awesome-actions](https://github.com/sdras/awesome-actions) : A curated list of awesome actions to use on GitHub
+- [awesome-raylib](https://github.com/Rabios/awesome-raylib) : A curated list of awesome stuff for raylib; the simple and easy-to-use library to enjoy videogames programming.
 
 ## GameProgrammerPath
 [Back to top](#Index)
