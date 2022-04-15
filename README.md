@@ -272,6 +272,7 @@ If you want to add projects here, do a pull request or open an issue!
   - [dirent](https://github.com/tronkko/dirent) : C/C++ library for retrieving information on files and directories
   - [whereami](https://github.com/gpakosz/whereami) : Locate the current executable and the current module/library on the file system
 - Reflection & Serialization
+  - [putils_reflection](https://github.com/phisko/reflection/) - A simple, stand-alone, header-only and easily pluggable `constexpr` reflection system.
   - [Vzor](https://github.com/nikoladimitroff/Vzor) : Vzor is a reflection library for C++, with interface in Python and C++, macroless, intrusiveless, working on top modern C++ attributes
   - [magic_enum](https://github.com/Neargye/magic_enum) : Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
   - [ArticleEnumClass-v2](https://github.com/Dalzhim/ArticleEnumClass-v2) : 
@@ -318,6 +319,7 @@ If you want to add projects here, do a pull request or open an issue!
   - [enum.hpp](https://github.com/BlackMATov/enum.hpp) : C++17 compile-time enum reflection library
   - [reflection](https://github.com/skarupke/reflection) : 
 - Metaprogramming
+  - [putils_meta](https://github.com/phisko/meta/) - Phisko's metaprogramming utilities. Collection of type traits and compile-time helpers.
   - [monster](https://github.com/deepgrace/monster) : The Art of Template MetaProgramming in Modern C++
   - [STT-C-Compile-Time-Snake](https://github.com/mattbierner/STT-C-Compile-Time-Snake) : Snake/Nibbler implementation using C++ template metaprogamming
   - [brigand](https://github.com/edouarda/brigand) : Instant compile time C++ 11 metaprogramming library
@@ -592,6 +594,7 @@ If you want to add projects here, do a pull request or open an issue!
 
 ## Libraries
 [Back to top](#Index)
+- [putils](https://github.com/phisko/putils) - Phisko's C++ utilities. Large collection of helper classes and functions.
 - [HandyCpp](https://github.com/malamanteau/HandyCpp) : A large collection of header only utilities and convenience functions that make C++17 development happier.
 - [single_file_libs](https://github.com/prideout/single_file_libs) : List of single-file C/C++ libraries.
 - [bitsquid-foundation](https://github.com/niklas-ourmachinery/bitsquid-foundation) : A minimalistic foundation library with functions for memory allocation, basic collections, etc. The library has been written with a data-oriented philosophy: POD structures are preferred over class…
@@ -657,6 +660,7 @@ If you want to add projects here, do a pull request or open an issue!
 
 ## Engines
 [Back to top](#Index)
+- [kengine](https://github.com/phisko/kengine) - The Koala engine is a type-safe and self-documenting implementation of an Entity-Component-System (ECS), with a focus on runtime extensibility and compile-time type safety and clarity.
 - [game](https://github.com/onqtam/game) : The culmination of everything I'm passionate about
 - [Enjon](https://github.com/MrFrenik/Enjon) : Game engine created using OpenGL and C++
 - [Shadow-Functions-Engine](https://github.com/mmmuscus/Shadow-Functions-Engine) : A small ASCII graphical game engine for the windows console (and Linux since v2.0.2.) done in C++
