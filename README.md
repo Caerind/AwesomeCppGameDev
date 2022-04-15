@@ -1866,7 +1866,6 @@ If you want to add projects here, do a pull request or open an issue!
   - [ecs](https://github.com/SergeyMakeev/ecs) : Thoughts about entity-component-system
   - [flecs](https://github.com/SanderMertens/flecs) : A Multithreaded Entity Component System written for C89 & C99
   - [entt](https://github.com/skypjack/entt) : Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more
-  - [kengine](https://github.com/phisko/kengine) : The Koala engine is a type-safe and self-documenting implementation of an Entity-Component-System (ECS), with a focus on runtime extensibility and compile-time type safety and clarity.
   - [corgi](https://github.com/google/corgi) : C++ entity-component system
   - [ECS](https://github.com/redxdev/ECS) : C++ single-header entity component system library
   - [EntityPlus](https://github.com/Yelnats321/EntityPlus) : A C++14 Entity Component System
