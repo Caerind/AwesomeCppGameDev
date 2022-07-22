@@ -271,6 +271,7 @@ If you want to add projects here, do a pull request or open an issue!
   - [tinydir](https://github.com/cxong/tinydir) : Lightweight, portable and easy to integrate C directory and file reader
   - [dirent](https://github.com/tronkko/dirent) : C/C++ library for retrieving information on files and directories
   - [whereami](https://github.com/gpakosz/whereami) : Locate the current executable and the current module/library on the file system
+  - [PhysFS](https://github.com/icculus/physfs) : Abstracts access to files distributed across separate archives. 
 - Reflection & Serialization
   - [putils_reflection](https://github.com/phisko/reflection/) - A simple, stand-alone, header-only and easily pluggable `constexpr` reflection system.
   - [Vzor](https://github.com/nikoladimitroff/Vzor) : Vzor is a reflection library for C++, with interface in Python and C++, macroless, intrusiveless, working on top modern C++ attributes
