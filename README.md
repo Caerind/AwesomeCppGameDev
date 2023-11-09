@@ -1577,6 +1577,7 @@ If you want to add projects here, do a pull request or open an issue!
 ## Multimedia
 [Back to top](#Index)
 - Audio
+  - [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) : Free, cross-platform, open-source, data-driven audio engine designed with the needs of games in mind.
   - [soloud](https://github.com/jarikomppa/soloud) : Free, easy, portable audio engine for games
   - [openal-soft](https://github.com/kcat/openal-soft) : OpenAL Soft is a software implementation of the OpenAL 3D audio API.
   - [libsnd](https://github.com/everdrone/libsnd) : Digital Signal Processing Library and Audio Toolbox for the Modern Synthesist.
