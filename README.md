@@ -478,6 +478,7 @@ If you want to add projects here, do a pull request or open an issue!
 - Testing
   - [doctest](https://github.com/onqtam/doctest) : The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
   - [EATest](https://github.com/electronicarts/EATest) : EATest is a C++ unit testing framework. It's goal is to have a scalable architecture, have minimal dependencies, and simple usage.
+  - [faker-cxx](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development.
   - [gtest-adapter](https://github.com/DavidSchuldenfrei/gtest-adapter) : 
   - [gtest-parallel](https://github.com/google/gtest-parallel) : Run Google Test suites in parallel.
   - [gtest-tap-listener](https://github.com/kinow/gtest-tap-listener) : GoogleTest TAP Listener
