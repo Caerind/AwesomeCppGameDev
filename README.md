@@ -1040,6 +1040,7 @@ If you want to add projects here, do a pull request or open an issue!
   - [boundary-first-flattening](https://github.com/GeometryCollective/boundary-first-flattening) : 
   - [meshoptimizer](https://github.com/zeux/meshoptimizer) : Mesh optimization library that makes meshes smaller and faster to render
   - [meshgeometry](https://github.com/r03ert0/meshgeometry) : mesh geometry tools
+  - [MeshLib](https://github.com/MeshInspector/MeshLib) : Mesh processing library
   - [draco](https://github.com/google/draco) : Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
   - [xatlas](https://github.com/prideout/xatlas) : Mesh parameterization library
   - [PolyFit](https://github.com/LiangliangNan/PolyFit) : Polygonal Surface Reconstruction from Point Clouds
