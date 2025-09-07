@@ -663,6 +663,7 @@ If you want to add projects here, do a pull request or open an issue!
 
 ## Engines
 [Back to top](#Index)
+- [Detonator 2D](https://github.com/ensisoft/detonator) - Multiplatform (Linux, Windows, HTML5/WASM) 2D game engine with complete editor included. Make games in C++ and Lua. 
 - [kengine](https://github.com/phisko/kengine) - The Koala engine is a type-safe and self-documenting implementation of an Entity-Component-System (ECS), with a focus on runtime extensibility and compile-time type safety and clarity.
 - [game](https://github.com/onqtam/game) : The culmination of everything I'm passionate about
 - [Enjon](https://github.com/MrFrenik/Enjon) : Game engine created using OpenGL and C++
