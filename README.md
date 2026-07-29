@@ -871,6 +871,7 @@ If you want to add projects here, do a pull request or open an issue!
   - [InputSystem](https://github.com/Unity-Technologies/InputSystem) : An efficient and versatile input system for Unity.
   - [Extenject](https://github.com/svermeulen/Extenject) : Dependency Injection Framework for Unity3D
 - UnrealEngine
+  - [ALIS](https://github.com/fallintodusk/alis) : Modular UE5 C++ survival codebase with server-side MET-based metabolism and an integrated schema-driven JSON-to-DataAsset editor pipeline.
   - [unrealcpp](https://github.com/Harrison1/unrealcpp) : Unreal Engine 4 C++ examples
   - [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) : Unreal Engine 4 plugin component for rendering runtime generated content.
   - [ue4-docker](https://github.com/adamrehn/ue4-docker) : Windows and Linux containers for Unreal Engine 4
