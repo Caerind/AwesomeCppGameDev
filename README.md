@@ -1652,6 +1652,8 @@ If you want to add projects here, do a pull request or open an issue!
   - [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) : Newton Dynamics is an integrated solution for real time simulation of physics environments.
   - [nudge](https://github.com/rasmusbarr/nudge) : A small data-oriented and SIMD-optimized 3D rigid body physics library.
   - [JoltPhysics](https://github.com/jrouwe/JoltPhysics) : A multi core friendly rigid body physics and collision detection library.
+- Ballistics
+  - [poncelet](https://github.com/FelixMiddelhoff/poncelet) : Exterior/terminal-ballistics library for games — drag, swept hit detection, terminal ballistics, 6-DOF flight, fragmentation, guided munitions; deterministic BitExact mode for rollback netcode.
 - Water & Fluids
   - [waves](https://github.com/dli/waves) : Ocean Wave Simulation - http://david.li/waves
   - [wfc](https://github.com/emilk/wfc) : A C++ port of Wave Function Collapse Tiling
