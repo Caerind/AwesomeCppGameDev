@@ -2105,6 +2105,7 @@ If you want to add projects here, do a pull request or open an issue!
 - [awesome-design](https://github.com/Calinou/awesome-design) : Best UI/UX Design Sources For Developer & Designer Ever :)
 - [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) : A collection of free software and free culture resources for making amazing games. (mirror)
 - [magictools](https://github.com/ellisonleao/magictools) : A list of Game Development resources to make magic happen.
+- [RespawnStack](https://respawnstack.com) : Curated directory of AI tools for game developers.
 - [awesome](https://github.com/sindresorhus/awesome) : Awesome lists about all kinds of interesting topics
 - [awesome-c](https://github.com/uhub/awesome-c) : A curated list of awesome C frameworks, libraries and software.
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) : A curated list of awesome articles, websites and resources about mental health in the software industry.
