@@ -587,6 +587,7 @@ If you want to add projects here, do a pull request or open an issue!
   - [PPK_ASSERT](https://github.com/gpakosz/PPK_ASSERT) : PPK_ASSERT is a cross platform drop-in & self-contained C++ assertion library
   - [debugbreak](https://github.com/scottt/debugbreak) : break into the debugger programmatically
   - [crashpad](https://github.com/chromium/crashpad) : A crash-reporting system
+  - [LogBrew C++ SDK](https://github.com/LogBrewCo/sdk/tree/main/cpp/logbrew-cpp) : Dependency-free C++17 client that sends errors with breadcrumbs, logs, traces and metrics to LogBrew
   - [in_constexpr](https://github.com/SaadAhmad/in_constexpr) : An approach for runtime detection inside a constexpr function
   - [backward-cpp](https://github.com/bombela/backward-cpp) : A beautiful stack trace pretty printer for C++
   - [debug_assert](https://github.com/foonathan/debug_assert) : Simple, flexible and modular assertion macro.
