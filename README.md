@@ -574,7 +574,7 @@ If you want to add projects here, do a pull request or open an issue!
   - [jet-live](https://github.com/ddovod/jet-live) : c++ hot code reload for linux and macos
   - [blink](https://github.com/crosire/blink) : A tool which allows you to edit source code of any MSVC C++ project live at runtime
   - [CToy](https://github.com/anael-seghezzi/CToy) : Interactive C coding environment
-  - [C-Hotloading](https://github.com/RandyGaul/C-Hotloading) : Example of MSVC makefile project for hotloading C with intellisense/debugger compatability
+  - [C-Hotloading](https://github.com/RandyGaul/C-Hotloading) : Example of MSVC makefile project for hotloading C with intellisense/debugger compatibility
   - [RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) : Change C++ code at runtime
   - [live_reload_test](https://github.com/nlguillemot/live_reload_test) : demonstration of live reloading
   - [cr](https://github.com/fungos/cr) : cr.h: A Simple C Hot Reload Header-only Library
