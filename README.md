@@ -568,7 +568,7 @@ If you want to add projects here, do a pull request or open an issue!
   - [llvm-project](https://github.com/llvm/llvm-project) : The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at…
 - HotReload
   - [car](https://github.com/nicholaschiasson/car) : Compile and Run! Execute source files directly without worrying at all about compiling.
-  - [PolyHook_2_0](https://github.com/stevemk14ebr/PolyHook_2_0) : C++17, x86/x64 Hooking Libary v2.0
+  - [PolyHook_2_0](https://github.com/stevemk14ebr/PolyHook_2_0) : C++17, x86/x64 Hooking Library v2.0
   - [Ratchet](https://github.com/themeldingwars/Ratchet) : A gameclient hooking framework to aid debuging
   - [PolyHook](https://github.com/stevemk14ebr/PolyHook) : x86/x64 C++ Hooking Library
   - [jet-live](https://github.com/ddovod/jet-live) : c++ hot code reload for linux and macos
