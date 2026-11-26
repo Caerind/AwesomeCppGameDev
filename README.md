@@ -1621,6 +1621,7 @@ If you want to add projects here, do a pull request or open an issue!
     - [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) : PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
     - [Tonic](https://github.com/TonicAudio/Tonic) : Easy and efficient audio synthesis in C++
     - [stk](https://github.com/thestk/stk) : The Synthesis ToolKit in C++ (STK) is a set of open source audio signal processing and algorithmic synthesis classes written in the C++ programming language.
+    - [Yuby](https://github.com/gaborszanto/yubysdk) : Fast, low-latency, cross-platform audio engine with player, effects, analysis, and stem separation. Commercial.
 - Video
   - [videoInput](https://github.com/ofTheo/videoInput) : A video capture library for windows.
   - [FFmpeg](https://github.com/FFmpeg/FFmpeg) : Mirror of git://source.ffmpeg.org/ffmpeg.git
