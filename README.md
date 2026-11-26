@@ -568,13 +568,13 @@ If you want to add projects here, do a pull request or open an issue!
   - [llvm-project](https://github.com/llvm/llvm-project) : The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at…
 - HotReload
   - [car](https://github.com/nicholaschiasson/car) : Compile and Run! Execute source files directly without worrying at all about compiling.
-  - [PolyHook_2_0](https://github.com/stevemk14ebr/PolyHook_2_0) : C++17, x86/x64 Hooking Libary v2.0
+  - [PolyHook_2_0](https://github.com/stevemk14ebr/PolyHook_2_0) : C++17, x86/x64 Hooking Library v2.0
   - [Ratchet](https://github.com/themeldingwars/Ratchet) : A gameclient hooking framework to aid debuging
   - [PolyHook](https://github.com/stevemk14ebr/PolyHook) : x86/x64 C++ Hooking Library
   - [jet-live](https://github.com/ddovod/jet-live) : c++ hot code reload for linux and macos
   - [blink](https://github.com/crosire/blink) : A tool which allows you to edit source code of any MSVC C++ project live at runtime
   - [CToy](https://github.com/anael-seghezzi/CToy) : Interactive C coding environment
-  - [C-Hotloading](https://github.com/RandyGaul/C-Hotloading) : Example of MSVC makefile project for hotloading C with intellisense/debugger compatability
+  - [C-Hotloading](https://github.com/RandyGaul/C-Hotloading) : Example of MSVC makefile project for hotloading C with intellisense/debugger compatibility
   - [RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) : Change C++ code at runtime
   - [live_reload_test](https://github.com/nlguillemot/live_reload_test) : demonstration of live reloading
   - [cr](https://github.com/fungos/cr) : cr.h: A Simple C Hot Reload Header-only Library
